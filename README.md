@@ -69,18 +69,8 @@ contact      : contact@techurvashi.com
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <h3>🚀 MERN + GenAI Bootcamp</h3>
-      <img src="https://img.shields.io/badge/Status-Enrolling_Now-22c55e?style=for-the-badge" /><br/><br/>
-      Build <b>production-ready full-stack AI apps</b> from scratch.<br/><br/>
-      ✅ MongoDB · Express · React · Node.js<br/>
-      ✅ OpenAI API + LangChain Integration<br/>
-      ✅ RAG Pipelines & AI Chatbots<br/>
-      ✅ Deployment on Vercel + Render<br/>
-      ✅ Interview Prep Included<br/><br/>
-      <a href="https://www.techurvashi.com/"><img src="https://img.shields.io/badge/👉_Enroll_Now-7C3AED?style=for-the-badge" /></a>
-    </td>
-    <td align="center" width="33%">
+   
+    <td align="center" width="48%">
       <h3>🎥 YouTube Live Sessions</h3>
       <img src="https://img.shields.io/badge/Live-Every_Week-FF0000?style=for-the-badge&logo=youtube" /><br/><br/>
       Join <b>free weekly live coding sessions</b> on YouTube.<br/><br/>
@@ -89,9 +79,9 @@ contact      : contact@techurvashi.com
       📌 Live mock interviews<br/>
       📌 Career Q&A with Urvashi<br/>
       📌 Resume & profile reviews<br/><br/>
-      <a href="https://youtube.com/channel/UCqe_MG62l1xndIECp_9Gbzw"><img src="https://img.shields.io/badge/👉_Set_Reminder-FF0000?style=for-the-badge&logo=youtube" /></a>
+      <a href="https://www.youtube.com/@techurvashi/streams"><img src="https://img.shields.io/badge/👉_Set_Reminder-FF0000?style=for-the-badge&logo=youtube" /></a>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="48%">
       <h3>📦 Interview Prep Kit</h3>
       <img src="https://img.shields.io/badge/MERN+GenAI-E--Book-F97316?style=for-the-badge" /><br/><br/>
       The <b>ultimate interview prep resource</b> for MERN + AI roles.<br/><br/>
@@ -100,7 +90,7 @@ contact      : contact@techurvashi.com
       📘 GenAI & LLM interview Q&A<br/>
       📘 DSA cheatsheets<br/>
       📘 Profile building guide<br/><br/>
-      <a href="https://www.techurvashi.com/webdevelopmentInterviewprep.html"><img src="https://img.shields.io/badge/👉_Get_the_Kit-F97316?style=for-the-badge" /></a>
+      <a href="https://www.techurvashi.com/ebooks"><img src="https://img.shields.io/badge/👉_Get_the_Kit-F97316?style=for-the-badge" /></a>
     </td>
   </tr>
 </table>
@@ -115,9 +105,9 @@ contact      : contact@techurvashi.com
 ╠══════════════════════════════════════════════════════════════╣
 ║  👩‍🎓  5,000+    Developers trained globally                   ║
 ║  🏢  24+        EdTech companies collaborated with           ║
-║  🎯  1,000s     Interview-cracked, offers received           ║
+║  🎯  2,000s     Interview-cracked, offers received           ║
 ║  📹  YouTube    Tutorials · Live Sessions · Mock Interviews   ║
-║  📘  1          Interview Prep E-Book (MERN + GenAI)         ║
+║  📘  4          Interview Prep E-Book (MERN + GenAI)         ║
 ║  🌍  Global     Learners from IN · US · UK · UAE · AU        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -151,16 +141,16 @@ contact      : contact@techurvashi.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=urvashi29&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urvashi29&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvashi29&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urvashi29&theme=tokyo-night&hide_border=true" width="95%" />
 </p>
 
 ---
@@ -208,6 +198,6 @@ const opportunities = {
 
 ⭐ *If my work helps you, star a repo — it fuels more free content for the community!* ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=urvashi29&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
