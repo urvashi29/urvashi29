@@ -84,7 +84,7 @@ contact      : contact@techurvashi.com
       <h3>📦 Interview Prep Kit</h3>
       <img src="https://img.shields.io/badge/MERN+GenAI-E--Book-F97316?style=for-the-badge" /><br/><br/>
       The <b>ultimate interview prep resource</b> for MERN + AI roles.<br/><br/>
-      📘 200+ curated interview questions<br/>
+      📘 500+ curated interview questions on MERN<br/>
       📘 System design for full-stack<br/>
       📘 GenAI & LLM interview Q&A<br/>
       📘 DSA cheatsheets<br/>
