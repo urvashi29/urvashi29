@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Web+Dev+%2B+GenAI+Principal+Instructor+%F0%9F%9A%80;5000%2B+Developers+Trained+Globally+%F0%9F%8C%8D;24%2B+EdTech+Brand+Collaborations+%F0%9F%A4%9D;MERN+%2B+GenAI+Bootcamp+Launching+Soon+%F0%9F%94%A5;Technical+Interviewer+%7C+Coach+%7C+Creator+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Web+Dev+%2B+GenAI+Principal+Instructor+%F0%9F%9A%80;6000%2B+Developers+Trained+Globally+%F0%9F%8C%8D;24%2B+EdTech+Brand+Collaborations+%F0%9F%A4%9D;MERN+%2B+GenAI+Bootcamp+Launching+Soon+%F0%9F%94%A5;Technical+Interviewer+%7C+Coach+%7C+Creator+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
 
