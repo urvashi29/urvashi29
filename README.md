@@ -22,7 +22,7 @@ $ cat about.txt
 name         : Urvashi Singla (Tech Urvashi)
 role         : Principal Instructor | Corporate Trainer | Technical Interviewer
 speciality   : Web Development (MERN) + Generative AI
-students     : 5000+ trained globally
+students     : 6000+ trained globally
 edtech_collab: 24+ companies (and counting)
 mission      : "Simplify tech. Amplify careers."
 contact      : contact@techurvashi.com
