@@ -101,7 +101,7 @@ contact      : contact@techurvashi.com
 ╔══════════════════════════════════════════════════════════════╗
 ║                    TECH URVASHI — BY NUMBERS                 ║
 ╠══════════════════════════════════════════════════════════════╣
-║  👩‍🎓  5,000+    Developers trained globally                   ║
+║  👩‍🎓  6,000+    Developers trained globally                   ║
 ║  🏢  24+        EdTech companies collaborated with           ║
 ║  🎯  2,000s     Interview-cracked, offers received           ║
 ║  📹  YouTube    Tutorials · Live Sessions · Mock Interviews   ║
